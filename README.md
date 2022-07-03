@@ -1,11 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+- 🎓 &nbsp; Estudando Técnico em Informática no <a href="https://cti.feb.unesp.br">Colégio Técnico Industrial “Prof. Isaac Portal Roldán”</a>.
+- 💼 &nbsp; Trabalhando como Desenvolvedor e QA na <a href="https://nexum.com.br">Nexum</a>
+- 🌱 &nbsp; Aprendendo mais sobre **Organização e desenvolvimento no metodo SCRUM**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -20,7 +20,7 @@
 
 **Utilidades**
 
-  ![WinSCP](https://img.shields.io/badge/-WinSCP-333333?style=flat&logo=winSCP)
+  ![WinSCP](https://img.shields.io/badge/-WinSCP-333333?style=flat&logo=winscp)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 **DevOps**
@@ -31,8 +31,9 @@
 **Ferramentas de Desenvolvimento**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira-ide&logoColor=2C2255)
+  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=2C2255)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio&logoColor=007ACC)
+  ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity&logoColor=007ACC)
 
 <br/>
