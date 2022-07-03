@@ -12,7 +12,7 @@
 **Aplicações e Dados**
 
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![C#](img.shields.io/badge/-Csharp-333333?style=flat&logo=csharp)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -20,7 +20,7 @@
 
 **Utilidades**
 
-  ![WinSCP](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+  ![WinSCP](https://img.shields.io/badge/-WinSCP-333333?style=flat&logo=winSCP)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 **DevOps**
@@ -31,7 +31,7 @@
 **Ferramentas de Desenvolvimento**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png"-ide&logoColor=2C2255)
+  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira-ide&logoColor=2C2255)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio&logoColor=007ACC)
 
