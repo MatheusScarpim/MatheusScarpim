@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Técnico em Informática no <a href="https://cti.feb.unesp.br">Colégio Técnico Industrial “Prof. Isaac Portal Roldán”</a>.
-- 💼 &nbsp; "Estagiando" como Desenvolvedor e QA na <a href="https://nexum.com.br">Nexum Tecnologia</a>
+- 💼 &nbsp; Estagiando como Desenvolvedor e QA na <a href="https://nexum.com.br">Nexum Tecnologia</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Organização e desenvolvimento no metodo SCRUM**.
 
 
