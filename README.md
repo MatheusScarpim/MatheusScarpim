@@ -38,8 +38,6 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-<br/>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusScarpim&theme=merko&hide_langs_below=1" />
 <br><br><br>
 <a href="https://www.instagram.com/matheus_scarpim6/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </a>
