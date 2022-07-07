@@ -44,4 +44,3 @@
 <a href="https://steamcommunity.com/id/op3000/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"</a>
 </a>
 <a href="https://www.linkedin.com/in/matheus-scarpim-cuan-56b89b23a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-</a>
